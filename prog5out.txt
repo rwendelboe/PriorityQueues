@@ -1,0 +1,49 @@
+ ** DELETED ablate:21
+ ** DELETED abash:30
+ ** DELETED abracadabra:44
+ ** DELETED abrogation:147
+ ** DELETED accordance:98
+ ** DELETED abstractly:190
+ ** DELETED abstention:205
+ ** DELETED absentmindedly:250
+Before merge 
+       abate:879
+          abruptly:4781
+175175    abed:158
+          abort:985
+175       aborigine:223
+          abolition:858
+175175175
+Before merge 
+       accelerated:1325
+          academy:4106
+139139    acclimate:287
+          abscess:444
+139       absolutist:317
+          absorbing:475
+139139139
+After merge 
+          abort:985
+194       aborigine:223
+          abolition:858
+194194    abed:158
+             accelerated:1325
+                academy:4106
+194194          abate:879
+             abruptly:4781
+194194       acclimate:287
+             abscess:444
+194          absolutist:317
+             absorbing:475
+194194194194
+After merge 
+          accelerated:1325
+             academy:4106
+139139       abate:879
+          abruptly:4781
+139139    acclimate:287
+          abscess:444
+139       absolutist:317
+          absorbing:475
+139139139
+Elapsed time = 0.318
